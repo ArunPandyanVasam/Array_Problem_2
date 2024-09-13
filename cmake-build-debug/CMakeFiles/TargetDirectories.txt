@@ -1,0 +1,3 @@
+/home/avasam/CLionProjects/DataStructuresAndAlgorithms/Arrays/Array_Problem_2/cmake-build-debug/CMakeFiles/Array_Problem_2.dir
+/home/avasam/CLionProjects/DataStructuresAndAlgorithms/Arrays/Array_Problem_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/avasam/CLionProjects/DataStructuresAndAlgorithms/Arrays/Array_Problem_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
